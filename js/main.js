@@ -5,4 +5,8 @@ $(document).ready(function() {
     $('#main_nav').toggleClass('active');
 
   });
+ $(document).click(function() {
+   $('#main_nav').removeClass('active');
+ });
+
 });
