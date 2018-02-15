@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6 {
   display: none; }
 
 #banner {
-  background: url("../images/3stooges.jpg");
+  background: url("../images/cover.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
